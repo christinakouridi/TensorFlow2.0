@@ -1,1 +1,0 @@
-Learning the new features of Tensorflow 2.0 by implementing a range of canonical ML algorithms.

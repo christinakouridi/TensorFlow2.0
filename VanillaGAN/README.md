@@ -1,3 +1,4 @@
+**Description** <br>
 This is an implementation of a Generative Adversarial Network from Ian Goodfellow's paper (<https://arxiv.org/pdf/1406.2661.pdf>), where the Generator and Discriminator are described by multilayer perceptrons. Several empirical techniques have been implemented to improve stability: <br>
 
   - One-sided label smoothing: The discriminator has been penalised when the prediction for any real images goes beyond 0.9, by setting our target label value to be 0.9 instead of 1.0. 
@@ -8,7 +9,7 @@ This is an implementation of a Generative Adversarial Network from Ian Goodfello
 
 For more tricks, visit <https://github.com/soumith/ganhacks>
 
-**Results:**
+**Key result**  <br>
 GIF of sample images over 200 epochs and 2h training:
 
 ![Alt Text](https://github.com/christinakouridi/TensorFlow2.0/blob/master/VanillaGAN/GAN.gif)

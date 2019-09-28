@@ -7,3 +7,9 @@ This is an implementation of a Generative Adversarial Network from Ian Goodfello
   - Batch normalisation is used to further stabilise training
 
 For more tricks, visit <https://github.com/soumith/ganhacks>
+
+GIF of sample images after 200 epochs:
+
+![Alt Text](https://github.com/christinakouridi/TensorFlow2.0/blob/master/VanillaGAN/GAN.gif)
+
+

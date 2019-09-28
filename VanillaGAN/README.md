@@ -8,7 +8,8 @@ This is an implementation of a Generative Adversarial Network from Ian Goodfello
 
 For more tricks, visit <https://github.com/soumith/ganhacks>
 
-GIF of sample images after 200 epochs:
+**Results:**
+GIF of sample images over 200 epochs and 2h training:
 
 ![Alt Text](https://github.com/christinakouridi/TensorFlow2.0/blob/master/VanillaGAN/GAN.gif)
 
